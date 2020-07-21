@@ -10,10 +10,9 @@
   <br> My Technologies:
   <br> #HTML #CSS #Javascript #React #Node.js #Python #SQL #Docker #Ansible #.Net
   <br>  
-  <br>Reach me on:
-  <br>[![twitter](https://image.flaticon.com/icons/png/512/23/23931.png)](https://www.twitter.com/marscapola)
+  <br> Volunteer in [Chicas en tecnología](https://www.chicasentecnologia.org) and currently working in EY as DevOps.
+  <br> In constant learning. I live on joining technology courses and drawing cartoons 🎨
 </p>
-
 ------------
 <p align="center">⭐️  <a href="https://github.com/MartinaScapola">Lua</a></p>
 
