@@ -1,9 +1,7 @@
-<p align="center">
+<p align="center" color= #4F2172>
   <br>
   <br>
-  <br>
-  <samp>Hello World! I'm <a href="https://www.twitter.com/marscapola">Lua</a>.<br> I'm a UI Developer from Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
-  <br>
+  <samp>Hello World! I'm <a href="https://www.twitter.com/marscapola">Lua</a>.<br> I'm an illustrator, DevOps Engineer & FrontEnd Developer
   <br>
   <br>
   <br>
@@ -11,7 +9,7 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
+<p align="center">⭐️  <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
 
 <!--
 **MartinaScapola/MartinaScapola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
