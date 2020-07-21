@@ -15,7 +15,6 @@
 </p>
 <br>
 <br>
-  ---------
 <p align="center">⭐️  <a href="https://github.com/MartinaScapola">Lua</a></p>
 
 <!--
