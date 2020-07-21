@@ -13,8 +13,8 @@
   <br> Volunteer in <a href="https://chicasentecnologia.org">Chicas en Tecnología</a> and currently working in EY as DevOps.
   <br> In constant learning. I live on joining technology courses and drawing cartoons 🎨
 </p>
-<br>
-<br>
+
+---
 <p align="center">⭐️  <a href="https://github.com/MartinaScapola">Lua</a></p>
 
 <!--
