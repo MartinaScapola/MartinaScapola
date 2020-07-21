@@ -8,15 +8,14 @@
   <img src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" width="350" />
   <br>
   <br> My Technologies:
-  <br> #HTML #CSS #Javascript #React #Node.js #Python #SQL #Docker #Ansible 
+  <br> #HTML #CSS #Javascript #React #Node.js #Python #SQL #Docker #Ansible #.Net
   <br>  
   <br>Reach me on:
-  <br>
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/luaailustrada/)
+  <br>[![twitter](https://image.flaticon.com/icons/png/512/23/23931.png)](https://www.twitter.com/marscapola)
 </p>
 
 ------------
-<p align="center">⭐️  <a href="https://github.com/MartinaScapola">@Martinascapola</a></p>
+<p align="center">⭐️  <a href="https://github.com/MartinaScapola">Lua</a></p>
 
 <!--
 **MartinaScapola/MartinaScapola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
