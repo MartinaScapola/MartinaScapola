@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" width="350" />
   <br>
   <br> My Technologies:
-  <br> #HTML #CSS #Javascript #React #Node.js #Python #SQL #yaml #Ansible #.Net
+  <br> #HTML #CSS #Javascript #Git #Azure #React #Node.js #Python #SQL #yaml #Ansible #.Net 
   <br>  
   <br> Volunteer in <a href="https://chicasentecnologia.org">Chicas en Tecnología</a> and currently working in EY as DevOps.
   <br> In constant learning. I live on joining technology courses and drawing cartoons 🎨
