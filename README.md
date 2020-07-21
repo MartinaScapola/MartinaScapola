@@ -10,7 +10,7 @@
   <br> My Technologies:
   <br> #HTML #CSS #Javascript #React #Node.js #Python #SQL #Docker #Ansible #.Net
   <br>  
-  <br> Volunteer in [Chicas en tecnología](https://www.chicasentecnologia.org) and currently working in EY as DevOps.
+  <br> Volunteer in <a href="https://chicasentecnologia.org">Chicas en Tecnología</a> and currently working in EY as DevOps.
   <br> In constant learning. I live on joining technology courses and drawing cartoons 🎨
 </p>
 ------------
