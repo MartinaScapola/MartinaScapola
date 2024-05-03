@@ -1,7 +1,7 @@
 <p align="center" style= "color: #4F2172">
   <br>
   <br>
-  <samp>Hello World! I'm <a href="https://www.twitter.com/marscapola">Lua 🌙 </a>.<br> I'm an illustrator, DevOps Engineer & FrontEnd Developer.
+  <samp>Hello World! I'm <a href="https://www.twitter.com/marscapola">Lua 🌙 </a>.<br> I'm an illustrator, writer & DevOps Engineer
   <br>✨
   <br>
   <br>
