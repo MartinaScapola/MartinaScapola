@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/1d/a9/5f/1da95f2772172922fae47deb21ed74cc.gif" width="350" />
   <br>
   <br> My Technologies:
-  <br> #HTML #CSS #Javascript #Git #Azure #React #Node.js #Python #yaml #Ansible #.Net 
+  <br> #HTML #CSS #Javascript #Git #Azure #AWS #Docker #Kubernetes #Argo #React #Node.js #Python #Yaml #Ansible #Terraform
   <br>  
   <br> Volunteer in <a href="https://chicasentecnologia.org">Chicas en Tecnología</a> and currently working in Yielstreet as DevOps.
   <br> In constant learning. I live on joining technology courses and drawing cartoons 🎨
